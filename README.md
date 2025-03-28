@@ -53,10 +53,17 @@ The data utilized in this project is an anonymized dataset comprising:
 
 
 ## Screenshots
+
+* Dashboard Overview:
+  
 ![Dashboard Overview](https://github.com/user-attachments/assets/b0e3f2b4-9d9b-411e-9c5b-7d9da63211e8)
 
+* Claim Analysis:
+  
 ![Claim Analysis](https://github.com/user-attachments/assets/940f0d4b-395c-424b-9164-35cb1a85a0ac)
 
+* Sentiment Analysis:
+  
 ![Sentiment Analysis](https://github.com/user-attachments/assets/3c1ba071-6def-4f64-9aeb-38917cccda36)
 
 
